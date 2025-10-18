@@ -46,10 +46,11 @@
 ## 🚀 My Projects
 ### All Repositories
 Showcasing my full portfolio of GitHub projects:  
-
-[![Mindscribe](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Mindscribe&theme=radical)](https://github.com/yourusername/Mindscribe)  
-[![HOPIN](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=HOPIN&theme=radical)](https://github.com/yourusername/HOPIN)  
-[![Recauva](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Reccova&theme=radical)](https://github.com/yourusername/Reccova)  
+[![Stream](https://img.shields.io/badge/Stream-Explore%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/Kanikashreesivakumar/stream)
+[![NPL](https://img.shields.io/badge/NPL-Explore%20Repo-purple?style=for-the-badge&logo=github)](https://github.com/Kanikashreesivakumar/NPL)
+[![Mindscribe](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Mindscribe&theme=radical)](https://github.com/Kanikashreesivakumar/mindscribe)  
+[![HOPIN](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=HOPIN&theme=radical)](https://github.com/Kanikashreesivakumar/Hopin)  
+[![Recauva](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Reccova&theme=radical)](https://github.com/Kanikashreesivakumar/Recauva)  
 
 > Add more by copying the pin card line for each repo automatically.  
 
@@ -62,5 +63,3 @@ Showcasing my full portfolio of GitHub projects:
 
 ---
 
-## 📈 Visitor Count
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
