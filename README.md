@@ -1,10 +1,7 @@
 # k4niz
-# Hi 👋, I'm Kani!
-
-
- **AI full stack develop | AI centric innovator | llm enthusiast **  
+**AI full stack develop | AI centric innovator | llm enthusiast **  
  I’m an AI-Empowered Technologist and Full Stack Developer dedicated to exploring the frontiers of machine intelligence, LLMs, and creative automations.
-## 🛠️ Tech Stack
+##  Tech Stack
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
@@ -23,16 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-## 📊 GitHub Stats
-![Kanikashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanikashreesivakumar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanikashreesivakumar&layout=compact&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kanikashreesivakumar&theme=react-dark&area=true)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kanikashree-sivakumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://k4niz.tech)
