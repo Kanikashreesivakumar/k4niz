@@ -3,7 +3,7 @@
 ## k4niz
 **AI full stack developer | AI centric innovator | llm enthusiast**
 
-I’m an AI-Empowered Technologist and Full Stack Developer dedicated to exploring the frontiers of machine intelligence, LLMs, and creative automations.
+I’m an AI-Empowered Technologist and Full Stack Developer dedicated to exploring the  machine intelligence, LLMs, and creative automations.
 ##  Tech Stack
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=black)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=black)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
