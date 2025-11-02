@@ -1,7 +1,7 @@
 
 [![An image of @kanikashreesivakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanikashreesivakumar)](https://holopin.io/@kanikashreesivakumar)
 ## k4niz
-**AI full stack developer | AI centric innovator | llm enthusiast**
+**AI full stack developer | AI centric innovator | llm ,GenAI enthusiast**
 
 I’m an AI-Empowered Technologist and Full Stack Developer dedicated to exploring the Machine intelligence,Deep learnning algorithms, LLMs, and creative automations.
 ##  Tech Stack
